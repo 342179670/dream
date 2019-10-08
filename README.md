@@ -1,2 +1,2 @@
-# dream
-some project for myself
+# lottery ticket tool
+I want to win the lottery
